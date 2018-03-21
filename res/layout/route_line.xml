@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="853px"
+    android:layout_height="600px"
+    android:background="#029443" >
+    <TextView 
+        android:id="@+id/tv_route_name_main"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:textSize="200px"
+        android:text="@string/route_name"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>

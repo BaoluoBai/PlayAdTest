@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyDialogStyle" parent="android:Theme.Dialog">
+
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- Dialog背景不变暗 -->
+        <item name="android:backgroundDimEnabled">false</item>
+
+    </style>
+</resources>

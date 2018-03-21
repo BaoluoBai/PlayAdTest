@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlayAdTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="route_cn">路線</string>
+    <string name="route_eng">Route</string>
+    <string name="route_name">1A</string>
+    <string name="terminal_cn">秀福樓</string>
+    <string name="terminal_eng">SAU FU HOUSE</string>
+    <string name="next_cn">啟業邨</string>
+    <string name="next_eng">KAI YIP ESTATE</string>
+    <string name="third_cn">九龍灣鐵路站</string>
+    <string name="third_eng">KOWLOON BAY RAILWAY STATION</string>
+    <string name="forth_cn">牛頭角下邨</string>
+    <string name="forth_eng">LOWER NGAU TAU KOK ESTATE</string>
+    <string name="fifth_cn">觀塘道休息處</string>
+	<string name="fifth_eng">KWUN TONG ROAD SETTING-OUT AREA</string>
+	<string name="nextstation_cn">下一站</string>
+	<string name="nextstation_eng">Next Stop</string>
+	<string name="nextstationname_cn">坪石邨</string>
+	<string name="nextstationname_eng">PING SHEK ESTATE</string>
+
+</resources>
